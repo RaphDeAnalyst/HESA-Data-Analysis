@@ -1,6 +1,6 @@
-# HESA-Analysis
+# In-depth Analysis on Higher Education Statistics Agency (HESA) Data
 ## Introduction
-This project utilizes datasets from the official [HESA](https://www.hesa.ac.uk/) website, focusing on three key datasets: [HE student enrolments by domicile and region of HE provider](https://www.hesa.ac.uk/data-and-analysis/students/table-11), [HE student enrolments by personal characteristics](https://www.hesa.ac.uk/data-and-analysis/sb265/figure-5), and [HE student enrolments by level of study](https://www.hesa.ac.uk/data-and-analysis/sb265/figure-3). The analysis covers data spanning from the 2017/18 to 2021/22 academic sessions.
+This project utilizes real life datasets from the official [HESA](https://www.hesa.ac.uk/) website, focusing on three key datasets: [HE student enrolments by domicile and region of HE provider](https://www.hesa.ac.uk/data-and-analysis/students/table-11), [HE student enrolments by personal characteristics](https://www.hesa.ac.uk/data-and-analysis/sb265/figure-5), and [HE student enrolments by level of study](https://www.hesa.ac.uk/data-and-analysis/sb265/figure-3). The analysis covers data spanning from the 2017/18 to 2021/22 academic sessions.
 
 ### This project aims to:
 
@@ -29,12 +29,21 @@ The data underwent preprocessing and transformation using Power Query. Columns c
 
 ## Key Findings:
 
-* Approximately 13.02 million HE students were admitted from 412 domiciles into 4 regions of HE providers between 2017/18 and 2021/22, showing an 18.7% increase.
+* Approximately 13.02 million HE students were admitted from 412 domiciles into 4 regions of HE providers between 2017/18 and 2021/22, there was 18.7% increase between 2017/18 to 2021/22.
 * Greater London ranked 1st among domiciles, China 2nd, and India rose from 18th to 3rd position.
 * Nigeria jumped from 52nd to 8th place, likely due to high rate of emigration.
-* England had the most HE students (10.7 million), while Northern Ireland had the fewest (300,000).
+* Among HE Providers England had the most HE students (10.7 million), while Northern Ireland had the least (300,000).
 * Among personal characteristics, females constituted 56.9% of HE students, with UK female students exceeding males by 39.4%.
 * About 38.8% of HE students were 20 and under, and 42.02% of non-UK domicile students were 21–24 years old.
 * Approximately 14.51% had known disabilities.
-* Students with no religion comprised 34.56%, followed by Christianity at 23.04%.
-* 73.96% were undergraduates (9.63 million), with 16.52% of the 3.39 million PG students engaged in PG research.
+* Students with no religion comprised 34.56%, followed by Christian students at 23.04%.
+* 73.96% were undergraduates (9.63 million), with only 16.52% of the 3.39 million PG students engaged in PG research.
+  
+  ![image](https://github.com/RaphDeAnalyst/HESA-Data-Analysis/assets/76891015/2bdc845e-9122-47d1-ba7b-155856f6ed2d)
+
+  ![image](https://github.com/RaphDeAnalyst/HESA-Data-Analysis/assets/76891015/31cd21e9-df4c-4f7d-aaaa-a916e57f05f4)
+
+  ![image](https://github.com/RaphDeAnalyst/HESA-Data-Analysis/assets/76891015/5e4c1ce7-c349-48c1-b4ed-ab0530201329)
+
+
+
